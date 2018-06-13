@@ -4,22 +4,24 @@
 
 Todo empieza en la asociación de makers [Bricolabs](https://bricolabs.cc/), allí coinciden tres personas:
 
-- [Tucho Méndez](https://twitter.com/procastino) \(visión\)
-- [Xoan Sampaiño](https://twitter.com/xoan) \(diseño piezas 3D\)
-- [Rafa Couto](https://twitter.com/caligari_pub) \(programación Arduino\) 
+- [Tucho Méndez](https://twitter.com/procastino) aporta la **idea **inicial.
+- [Xoan Sampaiño](https://twitter.com/xoan) diseña las **piezas 3D**.
+- [Rafa Couto](https://twitter.com/caligari_pub) realiza la **programación para Arduino**.
 
-**Deciden crear un robot libre** para poder trabajar en el aula la robótica educativa sin depender de una marca comercial.
-
-Con el tiempo se van sumando otras personas como son:
-
-- [Xabier Rosas](https://twitter.com/xdesig) \(aporta el diseño de las PCB\)
-- [Jorge Lobo](https://twitter.com/lobo_tic) \(profesor y maker espectacular imprescindible visitar su [blog](http://www.lobotic.es/)\)
-- [[Miguel Gesteiro](https://about.me/tuchomendez)](https://github.com/mgesteiro) \(desarrolla la aplicación MUWI y Bluetooth BLE junto a Ismael Serrano\)
+Deciden crear un **robot libre** para poder trabajar en el aula la **robótica educativa** sin depender de una marca comercial.
 
 ![Escornabot Brivoi 2015](https://escornabot.com/web/sites/default/files/node_attachs/brivoi.jpg)
 
-Toda esta suma de conocimientos aporta una documentación que otras personas hemos aprovechado para difundir el proyecto.
 
-Para comprender la filosofía del proyecto es imprescindible ver el vídeo de Tucho Méndez en el Arduino day 2015 organizado por [Makers Lugo](http://makerslugo.org/).
+
+Con el tiempo se van sumando otras personas:
+
+- [Xabier Rosas](https://twitter.com/xdesig) diseña las **nuevas PCB**.
+- [Jorge Lobo](https://twitter.com/lobo_tic) profesor y maker, aporta diversas **aplicaciones para el aula** a través de su [blog](http://www.lobotic.es/).
+- [[Miguel Gesteiro](https://github.com/mgesteiro) desarrolla la **aplicación MUWI y Bluetooth BLE** junto a Ismael Serrano.
+
+Entre todos van aportando una documentación que otras personas hemos ido aprovechado para difundir el proyecto.
+
+Para comprender la filosofía del proyecto, imprescindible ver el vídeo de **Tucho Méndez en el Arduino day 2015** organizado por [Makers Lugo](http://makerslugo.org/).
 
 [![Escornabot, Tucho Méndez](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://youtu.be/Czaiu6NDMSw "Escornabot, Tucho Méndez")
