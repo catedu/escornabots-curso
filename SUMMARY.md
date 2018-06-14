@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * [Componentes](chapter1.md)
-  * [Piezas impresas 3D](chapter1/piezas-impresas-3d.md)
+  * [Piezas impresas3D](chapter1/piezas-impresas-3d.md)
   * [Placa botonera](chapter1/placa-botonera.md)
   * [Arduino Nano](chapter1/arduino-nano.md)
   * [Motores paso a paso 28BY J-48](chapter1/motores-paso-a-paso-28by-j-48.md)
@@ -20,4 +20,6 @@
 * [Añadir módulo Bluetooth BLE](anadir-modulo-bluetooth-ble.md)
 * [Programación con mBlock](programacion-con-mblock.md)
 * [Programación con Visualino](programacion-con-visualino.md)
+
+
 
