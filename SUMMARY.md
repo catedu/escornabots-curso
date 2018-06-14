@@ -1,7 +1,18 @@
-# Escornabot, un robot Open Source
+# Summary
 
 * [Introducción](README.md)
 * [Componentes](chapter1.md)
+  * [Piezas impresas 3D](chapter1/piezas-impresas-3d.md)
+  * [Placa botonera](chapter1/placa-botonera.md)
+  * [Arduino Nano](chapter1/arduino-nano.md)
+  * [Motores paso a paso 28BY J-48](chapter1/motores-paso-a-paso-28by-j-48.md)
+  * [Drivers ULN2003](chapter1/drivers-uln2003.md)
+  * [Protoboard 170 puntos](chapter1/protoboard-170-puntos.md)
+  * [Buzzer 5V](chapter1/buzzer-5v.md)
+  * [Portapilas 4 unidades AA](chapter1/portapilas-4-unidades-aa.md)
+  * [Cables arduino macho-hembra](chapter1/cables-arduino-macho-hembra.md)
+  * [Canica 14 mm](chapter1/canica-14-mm.md)
+  * [Tornillería y tuercas](chapter1/tornilleria-y-tuercas.md)
 * [Guía de montaje](guia-de-montaje.md)
 * [Instalar programación](instalacion-de-la-programacion.md)
 * [Modificar programación](modificando-la-programacion.md)
@@ -9,6 +20,4 @@
 * [Añadir módulo Bluetooth BLE](anadir-modulo-bluetooth-ble.md)
 * [Programación con mBlock](programacion-con-mblock.md)
 * [Programación con Visualino](programacion-con-visualino.md)
-
-
 

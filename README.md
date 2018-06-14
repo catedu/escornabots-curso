@@ -18,7 +18,7 @@ Con el tiempo se van sumando otras personas:
 
 - [Xabier Rosas](https://twitter.com/xdesig) diseña las **nuevas PCB**.
 - [Jorge Lobo](https://twitter.com/lobo_tic) profesor y maker, aporta diversas **aplicaciones para el aula** a través de su [blog](http://www.lobotic.es/).
-- [[Miguel Gesteiro](https://github.com/mgesteiro) desarrolla la **aplicación MUWI y Bluetooth BLE** junto a Ismael Serrano.
+- [Miguel Gesteiro](https://github.com/mgesteiro) desarrolla la **aplicación MUWI y Bluetooth BLE** junto a Ismael Serrano.
 
 Entre todos van aportando una documentación que otras personas hemos ido aprovechado para difundir el proyecto.
 
