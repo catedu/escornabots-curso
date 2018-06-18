@@ -12,3 +12,8 @@ El conector blanco del motor va colocado a un [Driver ULN2003 ](/chapter1/driver
 
 Uno de los problemas que podemos tener es que el **cableado de los motores no sea el correcto**, hay algunas partidas de motores que no llevan el cableado bien colocado para poder mover Escornabot. El robot se diseñó y programó para funcionar con los motores conectados de una manera concreta, lo tienes explicado en [esta entrada](https://pablorubma.cc/problemas-con-motores-mal-cableados/).
 
+---
+
+[![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[Escornabot](http://escornabot.com/web/), un robot gallego Open Source por [Pablo Rubio Martínez](https://legacy.gitbook.com/@pablorubiomartinez).  Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+

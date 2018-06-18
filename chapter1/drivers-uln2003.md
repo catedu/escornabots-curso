@@ -8,16 +8,17 @@ A la izquierda tenemos **dos pines o pinchos** que son los encargados de recibir
 
 ![Driver ULN2003](/assets/driver-uln2003.jpg)
 
-Recordar el cuadro de conexiones
+> Recordar el cuadro de conexiones:
 
-| PIN Arduino NANO |PIN Driver | ¿Por qué? |
-| :--- | :--- | :---|
-| VIN | 5-12V (+) | En esta placa van conectados los motores y necesitaremos conectarlo a este pin para poder coger corriente del Porta Pilas que conectaremos justo encima de los dos cables de corriente de los drivers. |
-| GND | 5-12V (-) | Tierra o masa |
+| PIN Arduino NANO | PIN Driver | ¿Por qué? |
+| :--- | :--- | :--- |
+| VIN | 5-12V \(+\) | En esta placa van conectados los motores y necesitaremos conectarlo a este pin para poder coger corriente del Porta Pilas que conectaremos justo encima de los dos cables de corriente de los drivers. |
+| GND | 5-12V \(-\) | Tierra o masa |
 | D9, D8, D7, D6 \(en algunas placas 9, 8, 7, 6\) | IN1, IN2, IN3, IN4 | **Conexión del motor izquierdo** al Arduino Nano para poder recibir las ordenes de los movimientos y transmitirlas posteriormente al motor. |
 | D5, D4, D3, D2 \(en algunas placas 5, 4, 3, 2\) | IN1, IN2, IN3, IN4 | **Conexión del motor derecho** al Arduino Nano para poder rescibir las ordenes de los movimientos y transmitirlas posteriormente al motor. |
 
+---
 
-
-
+[![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[Escornabot](http://escornabot.com/web/), un robot gallego Open Source por [Pablo Rubio Martínez](https://legacy.gitbook.com/@pablorubiomartinez).  Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
