@@ -1,5 +1,10 @@
 # Añadir módulo Bluetooth BLE
 
+En construcción...
+
+De momento puedes consultar [esta guía](https://pablorubma.cc/escornabot-versiondiy-bluetoothble/)
+
+
 ---
 
 [![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  

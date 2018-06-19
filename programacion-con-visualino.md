@@ -1,5 +1,9 @@
 # Programación con Visualino
 
+En construcción...
+
+Toda la [información aquí](http://josema966.gitlab.io/bloques-en-visualino-para-escornabot.html) desarrollado por [Jose María Martínez](https://twitter.com/itubalibre)
+
 ---
 
 [![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
