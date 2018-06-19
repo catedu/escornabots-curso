@@ -2,8 +2,6 @@
 
 En construcción...
 
-Toda la [información aquí](http://josema966.gitlab.io/bloques-en-visualino-para-escornabot.html) desarrollado por [Jose María Martínez](https://twitter.com/itubalibre)
-
 
 ---
 
