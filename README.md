@@ -26,11 +26,9 @@ El primero, en** Arduino day 2015** organizado por [Makers Lugo](http://makerslu
 
 [![Escornabot, Tucho Méndez](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://youtu.be/Czaiu6NDMSw)
 
-El segundo, en el ** I Encuentro Coruña Dixital 2016**. Proyectos abiertos de programación y robótica educativa, la experiencia de @escornabot.
+El segundo, en el ** I Encuentro Coruña Dixital 2016**. Proyectos abiertos de programación y robótica educativa, la experiencia de escornabot.
 
 [![Escornabot, Tucho Méndez](http://img.youtube.com/vi/0VigoS2LbkQ/0.jpg)](https://youtu.be/0VigoS2LbkQ)
-
-
 
 ---
 
