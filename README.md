@@ -20,14 +20,22 @@ Con el tiempo se van sumando otras personas:
 
 Entre todos van aportando una documentación que otras personas hemos ido aprovechado para difundir el proyecto.
 
-Para comprender la filosofía del proyecto, imprescindible ver el vídeo de **Tucho Méndez en el Arduino day 2015** organizado por [Makers Lugo](http://makerslugo.org/).
+Para comprender la filosofía del proyecto, imprescindible ver dos vídeos de **Tucho Méndez:**
 
-[![Escornabot, Tucho Méndez](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://youtu.be/Czaiu6NDMSw "Escornabot, Tucho Méndez")
+El primero, en** Arduino day 2015** organizado por [Makers Lugo](http://makerslugo.org/).
+
+[![Escornabot, Tucho Méndez](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://youtu.be/Czaiu6NDMSw)
+
+El segundo, en el ** I Encuentro Coruña Dixital 2016**. Proyectos abiertos de programación y robótica educativa, la experiencia de @escornabot.
+
+[![Escornabot, Tucho Méndez](http://img.youtube.com/vi/0VigoS2LbkQ/0.jpg)](https://youtu.be/0VigoS2LbkQ)
+
+
 
 ---
 
 [![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [Escornabot](http://escornabot.com/web/), un robot gallego Open Source.  
-Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 La recopilación de material de este curso ha sido elaborada por [Pablo Rubio Martínez](https://legacy.gitbook.com/@pablorubiomartinez)
 
