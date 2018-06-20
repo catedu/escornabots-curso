@@ -11,12 +11,12 @@ Con estos cables realizaremos la conexión entre los diferentes componentes, un 
 * Si ves que **el cable no entra en la protoboard**, no fuerces.** Gira 90 grados **antes de volver a intentarlo
 * Cuando el **cable se dobla y queda frágil cámbialo por uno nuevo**, es un incordio si se parte dentro de la [protoboard](/chapter1/protoboard-170-puntos.md).
 
----
 
-[![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-[Escornabot](http://escornabot.com/web/), un robot gallego Open Source.  
-Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-La recopilación de material de este curso ha sido elaborada por [Pablo Rubio Martínez](https://legacy.gitbook.com/@pablorubiomartinez)
+
+
+
+
+
 
 
 

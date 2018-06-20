@@ -17,12 +17,12 @@ A la izquierda tenemos **dos pines o pinchos** que son los encargados de recibir
 | D9, D8, D7, D6 \(en algunas placas 9, 8, 7, 6\) | IN1, IN2, IN3, IN4 | **Conexión del motor izquierdo** al Arduino Nano para poder recibir las ordenes de los movimientos y transmitirlas posteriormente al motor. |
 | D5, D4, D3, D2 \(en algunas placas 5, 4, 3, 2\) | IN1, IN2, IN3, IN4 | **Conexión del motor derecho** al Arduino Nano para poder rescibir las ordenes de los movimientos y transmitirlas posteriormente al motor. |
 
----
 
-[![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-[Escornabot](http://escornabot.com/web/), un robot gallego Open Source.  
-Bajo licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-La recopilación de material de este curso ha sido elaborada por [Pablo Rubio Martínez](https://legacy.gitbook.com/@pablorubiomartinez)
+
+
+
+
+
 
 
 
