@@ -24,11 +24,11 @@ Para comprender la filosofía del proyecto, imprescindible ver dos vídeos de **
 
 El primero, en** Arduino day 2015** organizado por [Makers Lugo](http://makerslugo.org/).
 
-[![Escornabot, Tucho Méndez](http://img.youtube.com/vi/Czaiu6NDMSw/0.jpg)](https://youtu.be/Czaiu6NDMSw)
+{% youtube %}https://youtu.be/Czaiu6NDMSw{% endyoutube %}
 
 El segundo, en el ** I Encuentro Coruña Dixital 2016**. Proyectos abiertos de programación y robótica educativa, la experiencia de escornabot.
 
-[![Escornabot, Tucho Méndez](http://img.youtube.com/vi/0VigoS2LbkQ/0.jpg)](https://youtu.be/0VigoS2LbkQ)
+{% youtube %}https://youtu.be/0VigoS2LbkQ{% endyoutube %}
 
 
 
