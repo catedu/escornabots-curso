@@ -1,11 +1,13 @@
 # Material para trabajar en clase
 
-En construcción...
+En este apartado iremos recopilando todas las actividades y materiales de utilidad para trabajar en clase. 
 
-De momento puedes consultar el repositorio de GitHub:
+Es importante documentar las actividades, compartir y hacerlas accesible para que cualquier persona, en cualquier parte el mundo tenga la posibilidad de acceder a ellas.
 
-* [Tableros](https://github.com/escornabot/escornabot-DIY/tree/master/tableros-juegos)
-* [Disfraces](https://github.com/escornabot/escornabot-DIY/tree/master/disfraces)
+Según se genere material se modificará este apartado:
+
+* [Tableros y fichas](/material-para-trabajar-en-clase/tableros-y-fichas.md)
+* [Disfraces](/material-para-trabajar-en-clase/disfraces.md)
 
 
 
