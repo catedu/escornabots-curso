@@ -22,4 +22,3 @@ En una de la columna aparece "**nombre del archivo .stl**" es el tipo de **forma
 | [wheel-r.stl](https://drive.google.com/open?id=1quEMJjnzq5ZC1481vuwZUiiqiTn8o73u) | Rueda derecha | ![](https://raw.githubusercontent.com/escornabot/escornabot-DIY/master/imagenes/wheel-r.png) |
 
 
-
