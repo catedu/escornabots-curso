@@ -8,7 +8,7 @@ En una de la columna aparece "**nombre del archivo .stl**" es el tipo de **forma
 
 | Nombre del archivo .stl | Descripción | Imagen |
 | :--- | :--- | :--- |
-| [PCBAddon-KeypadBracket-5Buttons.stl](https://drive.google.com/open?id=1eQw2Qaxv3NHUNzOMe3G7p3gEsTDn_EnL) | Sujeción placa botonera | ![](https://raw.githubusercontent.com/escornabot/escornabot-DIY/master/imagenes/Addon-KeypadBracket-5Buttons.png) |
+|  [PCBAddon-KeypadBracket-5Buttons.stl](https://drive.google.com/open?id=1eQw2Qaxv3NHUNzOMe3G7p3gEsTDn_EnL) | Sujeción placa botonera | ![](https://raw.githubusercontent.com/escornabot/escornabot-DIY/master/imagenes/Addon-KeypadBracket-5Buttons.png) |
 | [board-bracket.stl](https://drive.google.com/open?id=1oU9GFeR-WMArf36dAjfsRykbGDSNjFgo) | Sujeción protoboard 170 puntos | ![](https://raw.githubusercontent.com/escornabot/escornabot-DIY/master/imagenes/board-bracket.png) |
 
 ### Piezas comunes con otras versiones
