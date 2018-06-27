@@ -10,7 +10,7 @@ Todo empieza en la asociación de makers [Bricolabs](https://bricolabs.cc/), all
 
 Deciden crear un **robot libre** para poder trabajar en el aula la **robótica educativa** sin depender de una marca comercial.
 
-![Escornabot Brivoi 2015](https://escornabot.com/web/sites/default/files/node_attachs/brivoi.jpg)
+![](https://escornabot.com/web/sites/default/files/node_attachs/brivoi.jpg)
 
 Con el tiempo se van sumando otras personas:
 
