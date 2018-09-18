@@ -4,7 +4,7 @@ Es el **altavóz que dota de sonido a Escornabot**, cada vez que pulsemos una te
 
 Tiene una **patilla larga o positivo** y una **patilla corta o negativo**. Si las dos patillas tienen la misma longitud en la parte delantera tienen serigrafiado el valor positivo.
 
-![Buzzer 5V](/assets/Buzzer5V.jpg)
+![](/assets/Buzzer5V.jpg)
 
 > Recuerda el cuadro de conexiones:
 

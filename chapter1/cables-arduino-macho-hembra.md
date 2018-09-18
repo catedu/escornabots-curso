@@ -4,7 +4,7 @@ Se llaman **cables dupont** pero me gusta llamarlos cables Arduino porque así c
 
 Vienen en tiras de 40 y esta es la forma en la que me gusta separarlos:
 
-![Cables macho-hembra escornabot](/assets/cables-machohembra-escornabot.jpg)
+![](/assets/cables-machohembra-escornabot.jpg)
 
 * Marrón
 * Rojo

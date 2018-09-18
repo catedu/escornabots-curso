@@ -8,7 +8,7 @@ En este apartado veremos todos los componentes explicando de manera simple su fu
 
 No te asustes, **no entraremos en detalles técnicos**.
 
-![Test componentes](https://pablorubma.cc/wp-content/uploads/DVviqbEW4AAaw8Z-267x200.jpg)
+![](https://pablorubma.cc/wp-content/uploads/DVviqbEW4AAaw8Z-267x200.jpg)
 
 * [Piezas impresas 3D  ](/chapter1/piezas-impresas3d.md)
 * [Placa botonera  ](/chapter1/placa-botonera.md)

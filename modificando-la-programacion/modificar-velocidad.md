@@ -6,7 +6,7 @@ Abrimos esa pestaña y localizamos la siguiente línea:
 
 > `#define STEPPERS_STEPS_PER_SECOND 1000`
 
-![Modificar Velocidad](/assets/modificar-velocidad.png)
+![](/assets/modificar-velocidad.png)
 
 Esta línea nos define los pasos por segundo que va a realizar el motor cada vez que pulsemos en el botón de ir adelante o atrás. **Si aumentamos el valor, aumentará la velocidad** y si disminuimos el valor, disminuye la velocidad.
 

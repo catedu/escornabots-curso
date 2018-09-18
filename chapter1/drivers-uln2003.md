@@ -6,7 +6,7 @@ Encima del conector blanco tenemos **cuatro pines o pinchos** que son los que **
 
 A la izquierda tenemos **dos pines o pinchos** que son los encargados de recibir la alimentación del portapilas, están **marcados con la serigrafía 5-12V  y  +/-**
 
-![Driver ULN2003](/assets/driver-uln2003.jpg)
+![](/assets/driver-uln2003.jpg)
 
 > Recuerda el cuadro de conexiones:
 

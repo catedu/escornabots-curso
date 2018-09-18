@@ -6,7 +6,7 @@ Con la programación abierta y situados en la pestaña "Configuration.h" localiz
 
 >`#define STEPPERS_LINE_STEPS 1738`
 
-![Modificar Distancia](/assets/Modificar-distancia.png)
+![](/assets/Modificar-distancia.png)
 
 El **valor 1738 equivale a un avance de 10cm** cada vez que pulsemos los botones para desplazarnos adelante o atrás.
 

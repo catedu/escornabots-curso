@@ -2,7 +2,7 @@
 
 El portapilas **proporciona la energía para el movimiento** del robot.
 
-![Portapilas AA](/assets/portapilas-AA.jpg)
+![](/assets/portapilas-AA.jpg)
 
 
 Lleva **4 pilas del tipo AA**, hay que fijarse al introducir las pilas para hacerlo en el sentido correcto. Parece algo evidente pero no sería la primera, ni la última vez que una persona las coloca mal y se coge un buen calentón.

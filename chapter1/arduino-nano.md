@@ -4,12 +4,12 @@ Es el **cerebro del  robot** y donde [cargaremos nuestro código](/instalacion-d
 
 Tiene dos filas de pinchos o patillas soldados en cada lateral y lo pondremos sobre la [protoboard](/chapter1/protoboard-170-puntos.md).
 
-![Arduino NANO V3 Roboticafacil.es](https://roboticafacil.es/wp-content/uploads/2017/04/Arduino-Nano-V3-2-e1492726589312.jpg)  
+![](https://roboticafacil.es/wp-content/uploads/2017/04/Arduino-Nano-V3-2-e1492726589312.jpg)  
 _Imagen de _[_roboticafacil.es_](https://roboticafacil.es/)
 
 **Cada pincho esta conetado a un PIN que viene marcado con un nombre concreto y tiene una función concreta.**. En esta imagen, sacada de la web de [Luis Llamas](https://www.luisllamas.es) puedes ver la correspondencia:
 
-![Arduino NANO PINOUT luisllamas.es](https://www.luisllamas.es/wp-content/uploads/2015/11/aduino-pinout-nano.png)
+![](https://www.luisllamas.es/wp-content/uploads/2015/11/aduino-pinout-nano.png)
 
 # ¿Qué necesitas saber?
 

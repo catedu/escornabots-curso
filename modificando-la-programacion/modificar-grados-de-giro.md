@@ -4,7 +4,7 @@ Es el turno de los giros, con la programación abierta y situados en la pestaña
 
 >`#define STEPPERS_TURN_STEPS 1024`
 
-![Modificar Giros](/assets/Modificar-giros.png)
+![](/assets/Modificar-giros.png)
 
 Esta línea nos dice cada vez que pulsamos los botones derecha o izquierda, cuantos grados girará Escornabot.
 

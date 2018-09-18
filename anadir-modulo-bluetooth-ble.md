@@ -21,7 +21,7 @@ Pincharemos el **cable rojo encima del rojo** y el** negro encima del negro** de
 
 Después en las dos filas que tenemos libres pincharemos los otros estremos de las puntas, de este modo tendremos dos filas libres en la parte superior:
 
-![Bluetooth ampliar pin](/assets/Bluetooth-ampliar-pin.jpg)
+![](/assets/Bluetooth-ampliar-pin.jpg)
 
 * Para conectar el cable del portapilas.
 * Para conectar el GND del Bluetooth.
@@ -43,7 +43,7 @@ El **cable negro** lo pinchamos en la patilla **GND del Bluetooth y la otra part
 
 El **cable rojo** lo pinchamos en la **patilla VCC del Bluetooth y la otra parte encima del cable de corriente 5V** del teclado.
 
-![Bluetooth conexión corriente](/assets/Bluetooth-corriente.jpg)
+![](/assets/Bluetooth-corriente.jpg)
 
 Usaremos otros dos cables macho-hembra para conectar las patillas RX, TX del Bluetooth con las del Arduino NANO.
 
@@ -56,7 +56,7 @@ Entramos en la pestaña **"Configuration.h"**
 
 Buscamos la parte del código que muestra la imagen:
 
-![Definir teclado + Bluetooth](/assets/01_Bluetooth.png)
+![](/assets/01_Bluetooth.png)
 
 > `Dejamos la línea #define BUTTONS_ANALOG para poder utilizar también el teclado`
 
@@ -66,7 +66,7 @@ En la mayoría de los casos funcionan a 9600 baudios que es el valor por defecto
 
 > Si quieres saber como comprobar los baudios a los que esta programado vuestro módulo [visita esta entrada de Makespace Madrid](http://wiki.makespacemadrid.org/index.php?title=Módulo_HM-10)
 
-![Bluetooth Activado](/assets/Bluetooth-activado.png)
+![](/assets/Bluetooth-activado.png)
 
 Si en la pestaña **"Configuration.h"** no vemos las líneas que aparecen en la imagen las debemos añadir.
 
@@ -74,7 +74,7 @@ Si en la pestaña **"Configuration.h"** no vemos las líneas que aparecen en la 
 
 Dentro de la pestaña "Configuration.h", al final buscamos este apartado:
 
-![Bluetooth definir Serial](/assets/Escornabot-BTBLE-DefineSerial.png)
+![](/assets/Escornabot-BTBLE-DefineSerial.png)
 
 Quitamos las dos barras inclinadas de la línea:
 
@@ -96,11 +96,11 @@ Ya tenemos todo preparado, lo siguiente:
 * **Conectamos la alimentación del robot**, justo encima de la ampliación que hicimos al inicio. El robot debería dar el pitido del check inicial y el led rojo del Bluetooth comenzar a partadear.
 * Entramos en la aplicación, buscamos el dispositivo Bluetooth y nos conectamos, una vez enlazados **la luz del Bluetooth dejará de parpadear para quedarse fija**.
 
-![APP Enlace](/assets/APP-enlace.png)
+![](/assets/APP-enlace.png)
 
 * Pulsamos en la parte inferior, en el dibujo del círculo con las flechas y pasamos a la pestaña del teclado. Si todo ha ido bien cuando pulsemos cada tecla en nuestro teléfono el robot emitirá un pitido y al pulsar el botón blanco comenzará a caminar.
 
-![APP Conexion](/assets/APP-conexion.png)
+![](/assets/APP-conexion.png)
 
 Ya tenemos nuestro Escornabot con conexión Bluetooth.
 

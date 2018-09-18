@@ -11,7 +11,7 @@
 
 Lo tienes explicado por [Jorge Lobo](https://twitter.com/lobo_tic) en su blog  [El Sistema Solar](https://t.co/kd2w8g2GMx)
 
-![Tablero Sistema Solar](http://1.bp.blogspot.com/-ShKVieAYacw/VOpq901DPAI/AAAAAAAAECk/ikUwcVzL0o0/s1600/sistema%2Bsolar%2Bmini.jpg)
+![](http://1.bp.blogspot.com/-ShKVieAYacw/VOpq901DPAI/AAAAAAAAECk/ikUwcVzL0o0/s1600/sistema%2Bsolar%2Bmini.jpg)
 
 
 ### Tablero casillas blancas y oficial escornabot
@@ -80,7 +80,7 @@ Para usar la plantilla triangular debes cambiar la programación para que los gr
 
 Hay que cortar en papel las cuadrículas por donde queremos que se mueva el robot, las pegaremos en papel de pintor y después pintarán un mapa por el que se desplazará Escornabot.
 
-![Zaragoza Maker Show](/assets/DgJjFY7XcAA90DJ.jpg)
+![](/assets/DgJjFY7XcAA90DJ.jpg)
 
 
 
