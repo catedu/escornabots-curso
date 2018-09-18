@@ -1,6 +1,6 @@
 # Arduino NANO
 
-Es el **cerebro del  robot** y donde [cargaremos nuestro código ](/instalacion-de-la-programacion.md)a través de una conexión Micro o Mini-USB para conectarlo a nuestro ordenador.
+Es el **cerebro del  robot** y donde [cargaremos nuestro código](/instalacion-de-la-programacion.md) a través de una conexión Micro o Mini-USB para conectarlo a nuestro ordenador.
 
 Tiene dos filas de pinchos o patillas soldados en cada lateral y lo pondremos sobre la [protoboard](/chapter1/protoboard-170-puntos.md).
 

@@ -31,7 +31,7 @@
   * [Tableros y fichas](material-para-trabajar-en-clase/tableros-y-fichas.md)
   * [Disfraces](material-para-trabajar-en-clase/disfraces.md)
   * [Máscaras Impresión3D](material-para-trabajar-en-clase/mascaras-impresion3d.md)
+  * [Dados CoDices](material-para-trabajar-en-clase/dados-codices.md)
 * [Añadir módulo Bluetooth BLE](anadir-modulo-bluetooth-ble.md)
 * [Programación con mBlock](programacion-con-mblock.md)
-* [Programación con Visualino](programacion-con-visualino.md)
 

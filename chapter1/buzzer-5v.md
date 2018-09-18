@@ -6,19 +6,12 @@ Tiene una **patilla larga o positivo** y una **patilla corta o negativo**. Si la
 
 ![Buzzer 5V](/assets/Buzzer5V.jpg)
 
-> Recordar el cuadro de conexiones:
+> Recuerda el cuadro de conexiones:
 
 | PIN Arduino NANO | Buzzer 5V | ¿Por qué? |
 | :--- | :--- | :--- |
 | D10 \(en algunas placas 10\) | Patilla larga \(+\) | Para poder recibir las ordenes del Arduino NANO y ejecutar los pitidos según las pulsaciones de los botones. |
 | GND | Patilla corta \(-\) | Tierra o masa |
-
-
-
-
-
-
-
 
 
 
