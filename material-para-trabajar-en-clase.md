@@ -7,6 +7,8 @@ Es **importante documentar las actividades**, compartir y hacerlas accesible par
 * [Tableros y fichas](/material-para-trabajar-en-clase/tableros-y-fichas.md)
 * [Disfraces](/material-para-trabajar-en-clase/disfraces.md)
 * [Máscaras Impresión 3D](/material-para-trabajar-en-clase/mascaras-impresion3d.md)
+* [Dados CoDices](/material-para-trabajar-en-clase/dados-codices.md)
+
 
 
 

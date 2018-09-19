@@ -10,7 +10,7 @@ Se utilizan **16 tornillos de métrica 3 y 10mm** de lóngitud.
 
 ![](/assets/tornillo-m3.jpg)
 
-También se pueden utilizar tornillos perforantes, el problema de estos es que si desmontas y montas varias veces el mismo robot, dejan de hacer su función. Son más agresivos a la hora de atornillarse en el plástico, si ves que quedan suelto puedes poner uno de los anteriores.
+También se pueden utilizar tornillos perforantes, el problema de estos es que si desmontas y montas varias veces el mismo robot, dejan de hacer su función. Son más agresivos a la hora de atornillarse en el plástico, si quedan sueltos utiliza uno de los anteriores.
 
 ![](/assets/tornillo-m3-perforante.jpeg)
 
