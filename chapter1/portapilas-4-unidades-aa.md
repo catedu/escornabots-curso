@@ -24,3 +24,4 @@ La terminación de los cables se puede [crimpar para tener un conector macho](ht
 
 
 
+
