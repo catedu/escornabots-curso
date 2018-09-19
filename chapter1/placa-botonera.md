@@ -18,8 +18,6 @@ Si miramos uno a uno sus componentes:
 
 Tienes una [guía de soldadura](https://pablorubma.cc/soldadura-botonera-escornabot-version-diy/), con cada uno de los pasos a seguir para ensamblar los componentes.
 
-<iframe src="https://pablorubma.cc/soldadura-botonera-escornabot-version-diy" width="640" height="480"></iframe>
-
 
 
 
