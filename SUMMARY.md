@@ -34,4 +34,5 @@
   * [Dados CoDices](material-para-trabajar-en-clase/dados-codices.md)
 * [Añadir módulo Bluetooth BLE](anadir-modulo-bluetooth-ble.md)
 * [Programación con mBlock](programacion-con-mblock.md)
+* [Pensamiento computacional](pensamiento-computacional.md)
 
