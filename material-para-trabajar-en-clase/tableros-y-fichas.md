@@ -53,7 +53,7 @@ Se pueden recortar las figuras interiores o cambiar de color para que l@s peques
 
 | Tablero A-3 | Archivo SVG  | Archivo PDF |
 | :--- | :--- | :--- |   
-| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/Tablero-Cuadrado-Triangulo-Circulo.png)  | [Tablero-Cuadrado-Triangulo-Circulo.svg](archivos/Tablero-Cuadrado-Triangulo-Circulo.svg) | [Tablero-Cuadrado-Triangulo-Circulo.pdf](archivos/Tablero-Cuadrado-Triangulo-Circulo.pdf) | 
+| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/Tablero-Cuadrado-Triangulo-Circulo.png)  | [Tablero-Cuadrado-Triangulo-Circulo.svg](https://drive.google.com/file/d/1vAINou6gLsc7SDetjBxRNOE9WXprmbRC) | [Tablero-Cuadrado-Triangulo-Circulo.pdf](https://drive.google.com/file/d/1cJJDx5iHIfusNREHW2Y-abyxMlu96N5G) | 
 
 
 ### Tableros alfabeto
@@ -62,9 +62,9 @@ Para trabajar las letras con animalicos :)
 
 | Tablero A-3 | Archivo SVG  | Archivo PDF |
 | :--- | :--- | :--- |    
-| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-a-i.png)  | [tablero-alfabeto-a-i.svg](archivos/tablero-alfabeto-a-i.svg) | [tablero-alfabeto-a-i.pdf](archivos/tablero-alfabeto-a-i.pdf) |
-| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-j-q.png)  | [tablero-alfabeto-j-q.svg](archivos/tablero-alfabeto-j-q.svg) | [tablero-alfabeto-j-q.pdf](archivos/tablero-alfabeto-j-q.pdf) |
-| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-r-z.png)  | [tablero-alfabeto-r-z.svg](archivos/tablero-alfabeto-r-z.svg) | [tablero-alfabeto-r-z.pdf](archivos/tablero-alfabeto-r-z.pdf) |
+| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-a-i.png)  | [tablero-alfabeto-a-i.svg](https://drive.google.com/file/d/1LjNINC1nUhHKRRpqFePhsvD65kIK0NLm) | [tablero-alfabeto-a-i.pdf](https://drive.google.com/file/d/1V35l7k0lUhJhurBjG7mb5AjF_wGOvfTy) |
+| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-j-q.png)  | [tablero-alfabeto-j-q.svg](https://drive.google.com/file/d/1O8E_Y7JBweZZnP-d_VqebT45ZY61cDdL) | [tablero-alfabeto-j-q.pdf](https://drive.google.com/file/d/1rW8VJqjycWZMvE5XVKGDCzoT9SMLg4Ax) |
+| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-r-z.png)  | [tablero-alfabeto-r-z.svg](https://drive.google.com/file/d/17bNTjNS3J191JvK4k4MOKxEZI6xUbRPM) | [tablero-alfabeto-r-z.pdf](https://drive.google.com/file/d/1kFVyJtry-Oevr0gyg-iMDMHHKiW9BAlC) |
 
 
 ### Tablero triangular
