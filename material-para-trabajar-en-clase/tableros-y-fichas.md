@@ -56,7 +56,7 @@ Para trabajar las letras con animalicos :\)
 | Tablero A-3 | Archivo SVG | Archivo PDF |
 | :--- | :--- | :--- |
 | ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-a-i.png) | [tablero-alfabeto-a-i.svg](https://drive.google.com/file/d/1LjNINC1nUhHKRRpqFePhsvD65kIK0NLm) | [tablero-alfabeto-a-i.pdf](https://drive.google.com/file/d/1V35l7k0lUhJhurBjG7mb5AjF_wGOvfTy) |
-| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-j-q.png) | [tablero-alfabeto-j-q.svg](https://drive.google.com/file/d/1O8E_Y7JBweZZnP-d_VqebT45ZY61cDdL) | [tablero-alfabeto-j-q.pdf](https://drive.google.com/file/d/1rW8VJqjycWZMvE5XVKGDCzoT9SMLg4Ax) |
+| ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-j-q.png) | [tablero-alfabeto-j-q.svg](https://drive.google.com/open?id=16tnAyh8AWjALQWiB-LljnXWNJtoGnzMG) | [tablero-alfabeto-j-q.pdf](https://drive.google.com/file/d/1rW8VJqjycWZMvE5XVKGDCzoT9SMLg4Ax) |
 | ![](https://raw.githubusercontent.com/pablorubma/escornabot-DIY/master/tableros-juegos/imagenes/tablero-alfabeto-r-z.png) | [tablero-alfabeto-r-z.svg](https://drive.google.com/file/d/17bNTjNS3J191JvK4k4MOKxEZI6xUbRPM) | [tablero-alfabeto-r-z.pdf](https://drive.google.com/file/d/1kFVyJtry-Oevr0gyg-iMDMHHKiW9BAlC) |
 
 ### Tablero triangular
