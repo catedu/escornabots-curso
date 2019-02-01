@@ -9,7 +9,9 @@ Es **importante documentar las actividades**, compartir y hacerlas accesible par
 * [Máscaras Impresión 3D](/material-para-trabajar-en-clase/mascaras-impresion3d.md)
 * [Dados CoDices](/material-para-trabajar-en-clase/dados-codices.md)
 
+> ## Diseños ya hechos
 
+> En [thingiverse](https://www.thingiverse.com/escornabot/about) podéis encontrar muchos diseños para descargar e imprimir directamente.
 
 
 
