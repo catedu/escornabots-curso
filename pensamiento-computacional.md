@@ -5,4 +5,4 @@
   
 Como se puede ver ESCORNABOT es LA ALTERNATIVA LIBRE a robots tipo Beebot, Colby pero también permite su programación con mBlock y código por lo tanto se puede usar en Infantil programando movimientos con los botones igual que Beebot y Colby o se puede programar utilizando mBlock y código utilizando este robot a niveles superiores, por lo tanto tenemos un robot **muy flexible** para usarlo en las aulas:
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vSnGHqK6AD7RaD8mVMBXUwXmzE4KXQQqdhBX6rGc7arR9_DOfE02i0wSDKuY20BO7VhPk39MQVcbqX_/pub?w=967&h=1276)
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}

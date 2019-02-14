@@ -30,10 +30,9 @@ El segundo, en el ** I Encuentro Coruña Dixital 2016**. Proyectos abiertos de p
 
 {% youtube %}https://youtu.be/0VigoS2LbkQ{% endyoutube %}
 
+En este curso haréis algo parecido a esto:
 
+{% youtube %}https://www.youtube.com/watch?v=v3rhKV1sYB8{% endyoutube %}
 
-
-
-
-
+> Ver [aquí](http://bennyhillthis.com/?v=v3rhKV1sYB8) otra versión más cómica ;-)
 
