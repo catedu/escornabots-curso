@@ -32,7 +32,10 @@
   * [Disfraces](material-para-trabajar-en-clase/disfraces.md)
   * [Máscaras Impresión3D](material-para-trabajar-en-clase/mascaras-impresion3d.md)
   * [Dados CoDices](material-para-trabajar-en-clase/dados-codices.md)
+  * [Diseño de ruedas](material-para-trabajar-en-clase/diseno-de-ruedas.md)
 * [Añadir módulo Bluetooth BLE](anadir-modulo-bluetooth-ble.md)
 * [Programación con mBlock](programacion-con-mblock.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
+
+
 
