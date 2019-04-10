@@ -1,5 +1,11 @@
 # Tableros y fichas
 
+Estos son algunos ejemplos, el material completo y actualizado lo puedes consultar en la [sección tableros y recursos de mi página web.](https://pablorubma.cc/escornabot/tableros/)
+
+> **Estamos realizando un recopilatorio con actividades** a través de [este formulario](https://t.co/R6qXQmQbPG?amp=1)
+>
+> Puedes consultar  las [aportaciones actuales aquí](https://t.co/9wBOTjMAn8?amp=1)
+
 ## Tableros
 
 ### Tableros con actividades

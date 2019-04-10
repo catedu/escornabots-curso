@@ -19,6 +19,8 @@ Primero necesitaremos los dos cables macho-macho \(con pincho en los dos lados\)
 
 Pincharemos el **cable rojo encima del rojo** y el** negro encima del negro** de las [placas de los drivers](/chapter1/drivers-uln2003.md).
 
+> Puede que en el kit el color de los cables sea diferente. No importa, lo que cuenta es colocar cada cable en su posición. El único motivo de intentar utilizar cableado del mismo color es facilitar el montaje del robot.
+
 Después en las dos filas que tenemos libres pincharemos los otros estremos de las puntas, de este modo tendremos dos filas libres en la parte superior:
 
 ![](/assets/Bluetooth-ampliar-pin.jpg)
@@ -103,11 +105,4 @@ Ya tenemos todo preparado, lo siguiente:
 ![](/assets/APP-conexion.png)
 
 Ya tenemos nuestro Escornabot con conexión Bluetooth.
-
-
-
-
-
-
-
 

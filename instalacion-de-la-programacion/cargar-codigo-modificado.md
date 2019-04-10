@@ -1,6 +1,6 @@
 # Cargar el código modificado
 
-Ya tenemos el código con los valores de nuestra botonera modificados, **nos aseguramos** también que la **configuración del teclado esta en el pin A4** (En la imagen lo puedes ver).
+Ya tenemos el código con los valores de nuestra botonera modificados, **nos aseguramos** también que la **configuración del teclado esta en el pin A4** \(En la imagen lo puedes ver\).
 
 ![](/assets/22-configurationh.png)
 
@@ -13,12 +13,7 @@ Si todo ha ido bien, **el robot emitirá un pitido del check inicial** indicando
 
 Pulsamos uno a uno cada botón ejecutando la acción de manera individual para comprobar su funcionamiento y ya podemos jugar con nuestro Escornabot.
 
-
-
-
-
-
-
+> Revisa el apartado [Test de botonera](/instalacion-de-la-programacion/test-de-botonera.md), si tienes algún problema al cargar el código.
 
 
 
