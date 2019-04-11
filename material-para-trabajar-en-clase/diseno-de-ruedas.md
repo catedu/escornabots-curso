@@ -10,7 +10,7 @@ Si te atreves con algo más complejo, puedes aprender a usar Freecad con Obijuan
 
 Si tienes una impresora 3D, descarga los archivos para imprimir en esta [colección de ruedas en la cuenta Thingiverse del proyecto](https://www.thingiverse.com/escornabot/collections/diseos-ruedas-escornabot).
 
-![](https://cdn.thingiverse.com/renders/a5/3d/43/8a/16/c40e7f89086e8c5b9525e23522c183c6_preview_featured.jpg)
+![](https://cdn.thingiverse.com/renders/2a/4a/0a/5f/3d/74fcc8143c9e5054434abe5d4c0d95d1_preview_featured.jpg)
 _Ruedas de [María Loureiro](https://www.thingiverse.com/tecnoloxia_org/about)_
 
 
