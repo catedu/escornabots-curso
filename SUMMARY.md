@@ -37,5 +37,6 @@
 * [Programación con mBlock](programacion-con-mblock.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
 
+---
 
-
+* [Créditos](creditos.md)
