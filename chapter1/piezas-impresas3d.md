@@ -1,6 +1,6 @@
 # Piezas impresas 3D
 
-Sostienen el resto de componentes y **conforman el chasis del robot**, se pueden imprimir en diferentes materiales. El más utilizado suele ser un plástico llamado PLA por ser el más económico y simple de imprimir.
+Sostienen el resto de componentes y **conforman el chasis del robot**, se pueden imprimir en diferentes materiales. El más utilizado suele ser un plástico llamado PLA por ser el más económico y simple de imprimir, con una altura de capa entre 0.2 y 0.3 mm.
 
 En una de la columna aparece "**nombre del archivo .stl**" es el tipo de **formato que utilizan los programas de las impresoras 3D** para poder leer e imprimir la pieza, si pinchas encima puedes descargar el archivo.
 
